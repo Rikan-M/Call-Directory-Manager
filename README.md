@@ -8,4 +8,4 @@ A Python-based call directory management system using a Trie data structure.
 
 ## Requirements
 - Python 3.7+
-- Install dependencies: logging , json , re , pytest
+- Install dependencies: logging , json , re
